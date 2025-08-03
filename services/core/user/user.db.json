@@ -1,6 +1,13 @@
 {
   "users": [
     {
+      "userName": "Jane",
+      "password": "123qweQWE!",
+      "fullName": "Jane More",
+      "initials": "JM",
+      "token": "58ebfdf7f1f568c5c87e17d3"
+    },
+    {
       "userName": "Warner",
       "password": "ea",
       "fullName": "Ines Lowe",
